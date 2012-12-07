@@ -12,7 +12,7 @@ class ToDoList(object):
 
     def __init__(self, todo_list='tasks.todo'):
         try:
-            self.todo_list = open(todo_list, 'rw')
+            self.todo_list = open(todo_list, 'r+')
         except IOError:
             new_location = input('What list file would you like to open?')
-            self.todo_list = open(new_location, 'rw')
+            self.todo_list = open(new_location, 'r+')
