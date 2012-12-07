@@ -19,8 +19,8 @@ The plans are:
 4. post it to hacker news
 5. get bought out by a large company
 6. buy a Ferrari and a wood shop
-7. learn how to make fine furnature
-8. keep track of my furnature projects using Polite Tasks
+7. learn how to make fine furniture
+8. keep track of my furniture projects using Polite Tasks
 
 Those plans (oh boy, it's a list) are somewhat ambitious, but I'd be satisfied
 completing the first three.
