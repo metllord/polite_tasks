@@ -12,6 +12,7 @@ Polite Tasks solves that by only displaying one task at a time. Once that task i
 complete, it will archive it and show you the next task.
 
 The plans are:
+
 1. create a command line interface that uses a text file for the todo list.
 2. switch this to a web app where the user can load text files as the input
 3. make it so the web app has accounts so people, other than me, can use the app
